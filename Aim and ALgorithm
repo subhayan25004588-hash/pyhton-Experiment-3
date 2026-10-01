@@ -1,0 +1,17 @@
+Aim:to perform operations on String
+
+Algorithm:
+
+Algorithm:
+1. START
+2. Input a string and store it in `string`.
+3. Initialize `string2` with `"Das"`.
+4. Display the original string and its length.
+5. Display the string in uppercase and lowercase.
+6. Display the character at index `3`.
+7. Check whether `"p"` is present in `"Python"`.
+8. Display the string from index `4` using slicing.
+9. Replace `string` with `string2` and display it.
+10. Concatenate `"hello"` with the string and display it.
+11. Remove spaces from `string3` using `strip()` and display it.
+12. STOP
