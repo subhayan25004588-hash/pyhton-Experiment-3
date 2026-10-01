@@ -1,8 +1,6 @@
 Aim:to perform operations on String
 
 Algorithm:
-
-Algorithm:
 1. START
 2. Input a string and store it in `string`.
 3. Initialize `string2` with `"Das"`.
