@@ -1,0 +1,15 @@
+
+string=input("Enter a String")
+string2 ="Das"
+print("the orignal String",string)
+print("length is",len(string))
+print("String in Uppercase",string.upper())
+print("String in Lowercase",string.lower())
+print("The ALphabet at 3 is ",string[3])
+print("Is P in The String Given ","p" in "Python")
+print("Slice",string[4:])
+print("Replaced: ",string.replace(string,string2))
+print("Concatination",string+"hello")
+string3=" subhayan "
+print("Trim",string3.strip())
+
